@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mind_maker/static/css/main.d27f550c.css",
+    "main.js": "/mind_maker/static/js/main.84d973c2.js",
+    "static/js/987.985bd7be.chunk.js": "/mind_maker/static/js/987.985bd7be.chunk.js",
+    "static/js/681.48dcd93c.chunk.js": "/mind_maker/static/js/681.48dcd93c.chunk.js",
+    "static/js/142.9704f051.chunk.js": "/mind_maker/static/js/142.9704f051.chunk.js",
+    "static/js/453.cf5117af.chunk.js": "/mind_maker/static/js/453.cf5117af.chunk.js",
+    "index.html": "/mind_maker/index.html",
+    "main.d27f550c.css.map": "/mind_maker/static/css/main.d27f550c.css.map",
+    "main.84d973c2.js.map": "/mind_maker/static/js/main.84d973c2.js.map",
+    "987.985bd7be.chunk.js.map": "/mind_maker/static/js/987.985bd7be.chunk.js.map",
+    "681.48dcd93c.chunk.js.map": "/mind_maker/static/js/681.48dcd93c.chunk.js.map",
+    "142.9704f051.chunk.js.map": "/mind_maker/static/js/142.9704f051.chunk.js.map",
+    "453.cf5117af.chunk.js.map": "/mind_maker/static/js/453.cf5117af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d27f550c.css",
+    "static/js/main.84d973c2.js"
+  ]
+}

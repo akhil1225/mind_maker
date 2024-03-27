@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkad_163=self.webpackChunkad_163||[]).push([[987],{987:(e,s,a)=>{a.r(s),a.d(s,{default:()=>c});a(43);var r=a(579);const c=()=>(0,r.jsx)("h4",{children:"Information about Academic Pressure goes here..."})}}]);
+//# sourceMappingURL=987.985bd7be.chunk.js.map
