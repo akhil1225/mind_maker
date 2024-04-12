@@ -1,21 +1,15 @@
 {
   "files": {
-    "main.css": "/mind_maker/static/css/main.2dc4ffa7.css",
-    "main.js": "/mind_maker/static/js/main.c46ca80c.js",
-    "static/js/987.985bd7be.chunk.js": "/mind_maker/static/js/987.985bd7be.chunk.js",
-    "static/js/681.48dcd93c.chunk.js": "/mind_maker/static/js/681.48dcd93c.chunk.js",
-    "static/js/142.9704f051.chunk.js": "/mind_maker/static/js/142.9704f051.chunk.js",
+    "main.css": "/mind_maker/static/css/main.7aeabbc5.css",
+    "main.js": "/mind_maker/static/js/main.9984295f.js",
     "static/js/453.cf5117af.chunk.js": "/mind_maker/static/js/453.cf5117af.chunk.js",
     "index.html": "/mind_maker/index.html",
-    "main.2dc4ffa7.css.map": "/mind_maker/static/css/main.2dc4ffa7.css.map",
-    "main.c46ca80c.js.map": "/mind_maker/static/js/main.c46ca80c.js.map",
-    "987.985bd7be.chunk.js.map": "/mind_maker/static/js/987.985bd7be.chunk.js.map",
-    "681.48dcd93c.chunk.js.map": "/mind_maker/static/js/681.48dcd93c.chunk.js.map",
-    "142.9704f051.chunk.js.map": "/mind_maker/static/js/142.9704f051.chunk.js.map",
+    "main.7aeabbc5.css.map": "/mind_maker/static/css/main.7aeabbc5.css.map",
+    "main.9984295f.js.map": "/mind_maker/static/js/main.9984295f.js.map",
     "453.cf5117af.chunk.js.map": "/mind_maker/static/js/453.cf5117af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dc4ffa7.css",
-    "static/js/main.c46ca80c.js"
+    "static/css/main.7aeabbc5.css",
+    "static/js/main.9984295f.js"
   ]
 }
